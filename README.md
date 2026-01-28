@@ -7,7 +7,7 @@
 
 ## 📌 Visão Geral
 
-Este projeto consiste em uma **análise de dados desenvolvida no Metabase**, utilizando **SQL Server e MySQL**, como parte da formação em **Análise de Dados da Escola DNC**.
+Este projeto consiste em uma **análise de dados desenvolvida no Metabase**, utilizando **SQL Server e MySQL** como SGBDs, como parte da formação em **Análise de Dados da Escola DNC**.
 
 O objetivo do dashboard é analisar **avaliações de produtos**, explorando métricas como quantidade de reviews, média de avaliações, desempenho por categoria e ranking dos produtos mais bem avaliados.
 
