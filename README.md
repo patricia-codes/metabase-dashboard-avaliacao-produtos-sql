@@ -166,4 +166,4 @@ Principais insights gerados:
 
 ---
 
-📌 *Projeto desenvolvido para fins educacionais durante a formação em Análise de Dados pela Escola DNC.*
+📌 *Projeto de análise de dados com foco em métricas de avaliação e apoio à tomada de decisão.*
