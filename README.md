@@ -1,7 +1,7 @@
 # 📊 Dashboard de Avaliação de Produtos
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
-![Ferramentas](https://img.shields.io/badge/Metabase-Analytics-blue)
+![Ferramentas](https://img.shields.io/badge/Metabase-DNC-blue)
 ![Banco](https://img.shields.io/badge/Database-SQL%20Server%20%7C%20MySQL-lightgrey)
 ![Linguagem](https://img.shields.io/badge/SQL-Queries-orange)
 
