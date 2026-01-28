@@ -139,8 +139,7 @@ O dashboard reúne todas essas análises em um painel visual interativo no **Met
 
 ## 🖼️ Dashboard de Avaliação de Produtos
 
-![Dashboard de Avaliações](Dash_Avaliação_Produtos_ SQL.png)
-
+![Dashboard de Avaliações](dashboard_avaliacao_produtos.png)
 
 Principais insights gerados:
 
